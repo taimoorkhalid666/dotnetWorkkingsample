@@ -1,0 +1,11 @@
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\bin\Debug\net48\dotnetapp.exe
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\bin\Debug\net48\dotnetapp.pdb
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\bin\Debug\net48\utils.dll
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\bin\Debug\net48\utils.pdb
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.csprojAssemblyReference.cache
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CoreCompileInputs.cache
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfoInputs.cache
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfo.cs
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CopyComplete
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.exe
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.pdb

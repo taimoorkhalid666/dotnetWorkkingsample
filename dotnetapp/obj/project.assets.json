@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/utils.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win7-x86": {
+      "utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utils/1.0.0": {
+      "type": "project",
+      "path": "../utils/utils.csproj",
+      "msbuildProject": "../utils/utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TaimoorKhalid\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\AlphaBold POCs\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+      "projectName": "dotnetapp",
+      "projectPath": "D:\\AlphaBold POCs\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+      "packagesPath": "C:\\Users\\TaimoorKhalid\\.nuget\\packages\\",
+      "outputPath": "D:\\AlphaBold POCs\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\TaimoorKhalid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "D:\\AlphaBold POCs\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\utils\\utils.csproj": {
+              "projectPath": "D:\\AlphaBold POCs\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\utils\\utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

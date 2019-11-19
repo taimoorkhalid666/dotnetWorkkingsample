@@ -1,0 +1,8 @@
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\bin\Debug\netstandard2.0\utils.deps.json
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\bin\Debug\netstandard2.0\utils.dll
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\bin\Debug\netstandard2.0\utils.pdb
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\obj\Debug\netstandard2.0\utils.csproj.CoreCompileInputs.cache
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\obj\Debug\netstandard2.0\utils.AssemblyInfoInputs.cache
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\obj\Debug\netstandard2.0\utils.AssemblyInfo.cs
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\obj\Debug\netstandard2.0\utils.dll
+D:\AlphaBold POCs\dotnet-framework-docker-master\dotnet-framework-docker-master\samples\dotnetapp\utils\obj\Debug\netstandard2.0\utils.pdb
